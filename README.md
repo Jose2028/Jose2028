@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="mygit.png" alt="Profile Banner" width="100%">
+  <img src="banner.png" alt="Profile Banner" width="100%">
 </p>
 
